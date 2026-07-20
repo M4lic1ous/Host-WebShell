@@ -4,10 +4,10 @@
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-0088cc)
-![Malicious](https://img.shields.io/badge/In-The-Name-Of-Malicious-0088cc)
+![Malicious]
 
-> **Created by Malicious For Dark Justice**
-
+**Created by Malicious For Dark Justice**
+**Telegram : @XCEE_H3R**
 ## 📌 نمای کلی
 
 یک وب‌شل قدرتمند با قابلیت اتصال به ربات تلگرام برای مدیریت از راه دور چندین سرور. شامل مدیریت کامل فایل‌ها و دریافت اطلاعات سرور.
@@ -38,7 +38,3 @@
   - `zip`
   - `json`
   - `mbstring`
-
- 
-
-##Telegram : @XCEE_H3R
