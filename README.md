@@ -4,7 +4,6 @@
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-0088cc)
-![Malicious]
 
 **Created by Malicious For Dark Justice**
 **Telegram : @XCEE_H3R**
