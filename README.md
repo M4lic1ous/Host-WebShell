@@ -1,11 +1,12 @@
 # Host-WebShell
-# 🛡️ وب‌شل مخرب - کنترل از طریق ربات تلگرام
+# 🛡️ وب‌شل هاست - دارای بات ریموت
 
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-0088cc)
+![Malicious](https://img.shields.io/badge/In-The-Name-Of-Malicious-0088cc)
 
-> **⚠️ هشدار:** این ابزار فقط برای **آموزش و تست مجاز** طراحی شده است. دسترسی غیرمجاز به سیستم‌ها غیرقانونی است. فقط روی سیستم‌های خودتان یا با اجازه صریح از مالک استفاده کنید.
+> **Created by Malicious For Dark Justice**
 
 ## 📌 نمای کلی
 
@@ -37,17 +38,7 @@
   - `zip`
   - `json`
   - `mbstring`
-- وب‌سرور (Apache/Nginx)
-- ربات تلگرام با توکن معتبر
 
-## 🚀 نصب و راه‌اندازی
+ 
 
-### 1️⃣ نصب وب‌شل
-
-فایل `shell.php` را در مسیر مورد نظر روی سرور قرار دهید:
-
-```php
-<?php
-// فایل shell.php
-// کد کامل وب‌شل را در اینجا قرار دهید
-?>
+##Telegram : @XCEE_H3R
